@@ -1,0 +1,980 @@
+Calculus 8th Ed.,James Stewart
+Calculus Early Trancendentals 8th Ed.,James Stewart
+Linear Algebra and Its Applications 5th Ed.,David C. Lay
+Introduction to the Practice of Statistics,Moore
+Understanding Analysis 2nd Ed.,Paul Zorn
+Math For Programmers,Paul Orland
+SAS Programming for Elementary Statistics,Carla L. Goad
+Contemporary Abstract Algebra 9th Ed.,Joseph Gallian
+Clean Code,James O. Coplien
+Computer Architecture: A Quantitative Approach,David Patterson
+The C++ Programming Language 4th Ed.,Bjarne Stroustrup
+Concurrency in Action 2nd Ed.,Anthony Williams
+Competitive Programmer's Handbook,Antti Laaksonen
+Serverless Architectures with Kubernetes ,Onur Yilmaz
+Advanced Platform Development with Kubernetes,Craig Johnson
+Beyond the Basic Stuff With Python,Al Sweigart
+Building Web Apps with Spring 5 and Angular,Ajitesh Shukla
+Hands-On for Azure Developers,Kamil Mrzyglod
+Implementing Effective Code Reviews,Giuliana Carullo
+Crime and Punishment (Penguin 2003),Fyodor Mikhailovich Dostoyevsky
+Mastering Microservices with Java,Sourabh Sharma
+Neural Networks from Scratch,Harrison Kinsley & Daniel Kukieła
+C# 9 and .NET 5. Modern Cross-Platform Development 5th Ed.,Mark J. Price
+Distributed Systems and Algorithmic Approach 2nd Ed.,Sukumar Ghosh
+Effective SQL: 61 Specific Ways to Write SQL,John L. Viescas
+Cloud Debugging and Profiling in Azure,Jefferey Chilberto
+Play It as it Lays,Joan Didion
+Foundations of Probabalistic Programming,Gilles Barth
+Introduction to Computation Using Python,John V.Guttag
+Head First Design Patterns 2nd Ed.,Eric Freeman & Elisabeth Robson
+gRPC - Up and Running,Kasun Indrasiri & Danesh Kuruppu
+Thinking Fast Thinking Slow,Daniel Kahneman
+The Monk of Mokha,Davie Eggers
+Fooled by Randomness: The Hidden Role of Chance in Life and Markets,Nicholas Nassim Taleb
+The History of Money,Jack Weatherford
+Barbarians at the Gate,Bryan Burrough
+Broke Millennial Talks Money,Erin Lowry
+"Dark Towers: Deutche Bank, Donald Trump, and an Epic Trail of Destruction",David Enrich
+Freakonomics,Steven Levitt and Steven Dubner
+Learn Algorithmic Trading,Sebastien Donadio
+Modern Principles of Economics 3rd Ed.,Tyler Cowen & Alex Tabarrok
+Principles Life and Work,Ray Dalio
+Superforecasting The Art and Science of Prediction,Phillip Tetlock
+The Intelligent Investor,Benjamin Graham
+Capital in the 21st Century,Thomas Piketty
+Security Analysis 6th Ed.,Benjamin Graham
+Catching The Wolf of Wall Street,Jordan Belfort
+The Wolf of Wall Street,Jordan Belfort
+Blink ,Malcolm Gladwell
+The Social Leap,William Von Hippel
+The Blank Slate: The Modern Denial of Human Nature,Steven Pinker
+Homo Deus: A Brief History of Tomorrow,Yuval Noah Harari
+Enlightenment Now,Steven Pinker
+Everything is Fucked,Mark Manson
+The Subtle Art of Not Giving a Fuck,Mark Manson
+Surrounded By Psychopaths,Thomas Erikson
+Rich Dad Poor Dad,Robert T. Kiyosaki
+You Are A Badass Every Day,Jen Sicero
+You Are A Badass At Making Money,Jen Sicero
+The 7 Habits of Highly Effective People,R. Steven Covey
+Permanent Record,Edward Snowden
+Can't Hurt Me,David Goggins
+Surely You're Joking Mr. Feynman,Richard Feynman
+Fear and Loathing At Rolling Stone,Hunter S. Thompson
+Anne Frank Diary of a Young Girl,Anne Frank
+Behind the Mask: My Autobiography,Tyson Fury
+Born a Crime,Trevor Noah
+Shoe Dog ,Phil Knight 
+Steve Jobs,Walter Isaacson
+1984,George Orwell
+Ready Player One,Ernest Cline
+Ready Player Two,Ernest Cline
+Fear and Loathing in Las Vegas,Hunter S. Thompson
+On the Road,Jack Kerouac
+The Vanishing Half,Brit Bennet
+The Sympathizer,Viet Thanh Nguyen
+Animal Farm ,George Orwell
+Super Sad True Love Story,Gary Shteyngart
+Turtles All The Way Down,John Green
+Infinite Jest,David Foster
+Looking For Alaska,John Green
+Fault in Our Stars,John Green
+Catch 22,Joseph Heller
+The Count of Monte Cristo,Alexandre Dumas
+"Don Quixote (Penguin, 2003)",Miguel de Cervantes
+Dracula,Bram Stoker
+Moby Dick,Herman Melville
+Of Mice and Men,John Steinbeck
+One Flew Over the Cuckoo's Nest,Ken Kessey
+The Complete Mark Twain Collection,Mark Twain
+The Grapes of Wrath,John Steinbeck
+To Kill a Mockingbird,Harper Lee
+Anna Karenina,Leo Tolstoy
+War and Peace ,Leo Tolstoy
+In Cold Blood,Truman Capote
+Dune,Frank Herbert
+Messiah,Frank Herbert
+Children of Dune,Frank Herbert
+God Emperor of Dune,Frank Herbert
+Heretics of Dune,Frank Herbert
+Chapter House Dune,Frank Herbert
+"Ann Veronica , A Modern Love Story",H.G Wells
+Tales of Space and Time,H.G Wells
+The Country of The Blind,H.G Wells
+The Door in The Wall and Other Stories,H.G Wells
+The First Men in the Moon,H.G Wells
+The Invisible Man,H.G Wells
+The Island of Doctor Monreau,H.G Wells
+The Time Machine,H.G Wells
+The War of the Worlds,H.G Wells
+Twelve Stories and A Dream,H.G Wells
+Bluebeard ,Kurt Vonnegut
+Breakfast of Champions,Kurt Vonnegut
+Cat's Cradle,Kurt Vonnegut
+God Bless You Mr Rosewater,Kurt Vonnegut
+Jailbird,Kurt Vonnegut
+Player Piano,Kurt Vonnegut
+Sirens of Titan,Kurt Vonnegut
+Slaughterhouse Five,Kurt Vonnegut
+Harry Potter and The Sorceror's Stone,J.K Rowling
+Harry Potter and The Chamber of Secrets,J.K Rowling
+Harry Potter and The Prisoner of Azkaben,J.K Rowling
+Harry Potter and The Goblet of Fire,J.K Rowling
+Harry Potter and The Order of the Phoenix,J.K Rowling
+Harry Potter and The Half Blood Prince,J.K Rowling
+Harry Potter and The Deathly Hallows,J.K Rowling
+The Magician's Nephew,C.S Lewis
+"The Lion, Witch, and The Wardrobe",C.S Lewis
+The Horse and His Boy,C.S Lewis
+Prince Caspian,C.S Lewis
+The Voyage of The Dawn Treader,C.S Lewis
+The Silver Chair,C.S Lewis
+The Last Battle,C.S Lewis
+The Gene: An Intimate History,Siddhartha Mukherjee
+The Silmarillion Illustrated,J.R.R Tolkien
+The Hobbit (Enhanced Edition),J.R.R Tolkien
+Bilbo's Last Song,J.R.R Tolkien
+Tales From the Perilous Realm,J.R.R Tolkien
+The Legend of Sigurd and Gudrun,J.R.R Tolkien
+Unfinished Tales,J.R.R Tolkien
+Game of Thrones: A Clash of Kings,George R.R Martin
+Game of Thrones: A Dance With Dragons,George R.R Martin
+Game of Thrones: A Feast for Crows,George R.R Martin
+Game of Thrones: A Game of Thrones,George R.R Martin
+Game of Thrones: A Storm of Swords,George R.R Martin
+Carrie,Stephen King
+The Shining,Stephen King
+Cujo,Stephen King
+The Running Man,Stephen King
+Pet Semetary,Stephen King
+Needful Things,Stephen King
+It,Stephen King
+The Stand,Stephen King
+Doctor Sleep,Stephen King
+"De Anima (Oxford, 1993)",Aristotle
+Eudemian Ethics (Oxford 1992),Aristotle
+Nicomachean Ethics (Cambrige 2000),Aristotle
+Politics (Oxford 1995),Aristotle
+Lyrical and Critical Essays,Albert Camus
+Geometry of Rene Descartes (Dover 1954),Rene Descartes
+Meditations on First Philosophy (Cambridge 1996),Rene Descartes
+Philosophical Writings (Modern Library 1958),Rene Descartes
+The World and Other Writings (Cambridge 1998),Rene Descartes
+Meditations,Marcus Aurelius
+Beyond Good and Evil,Friedrich Nietzsche
+The Art of War ,Sun Tzu
+Iliad and Odyssey translated by Chapman,Homer
+Iliad translated by Fagles (Penguin 1990),Homer
+Iliad translated by Rieu (Penguin 2003),Homer
+Odyssey translated by Fagles (Penguin 1996),Homer
+Odyssey translated by Rieu (Penguin 1996),Homer
+"Armstrong, J (ed.) - Arden Dictionary of tions (Arden, 1997)",William Shakespeare
+Complete Sonnets and Poems (Oxford 2002),William Shakespeare
+Hamlet (Cambridge 2003),William Shakespeare
+Henry IV Part 1 (Modern Library 2009),William Shakespeare
+Henry IV Part 2 (Modern Library 2009),William Shakespeare
+Henry V (Signet 1988),William Shakespeare
+"King Lear (Cambridge, 2005)",William Shakespeare
+"Macbeth (Cambridge, 1997)",William Shakespeare
+"Measure for Measure (Cambridge, 2006)",William Shakespeare
+"Midsummer Night's Dream, A (Cambridge, 2003)",William Shakespeare
+"Much Ado About Nothing (Cambridge, 2003)",William Shakespeare
+"Othello (Cambridge, 2003)",William Shakespeare
+"Richard II (Oxford, 2011)",William Shakespeare
+"Romeo and Juliet (Cambridge, 2003)",William Shakespeare
+"Taming of the Shrew (Cambridge, 2003)",William Shakespeare
+"Tempest (Signet, 1987)",William Shakespeare
+"Timon of Athens (Oxford, 2004)",William Shakespeare
+"Twelfth Night (Cambridge, 2004)",William Shakespeare
+"Winter's Tale (Modern Library, 2009).",William Shakespeare
+The Trial (Penguin 1994),Franz Kafka
+Complete Works - Plato,John M. Cooper & D. S. Hutchinson
+The Plague (Vintage 1991),Albert Camus
+A Brief History of Time,Stephen Hawking
+On The Origin of Species (Penguin 2009),Charles Darwin
+Heart of Darkness,Joseph Conrad
+Jane Eyre,Charlotte Bronte
+A Portrait of the Artist as a Young Man,James Joyce
+"Ulysses (Penguin, 2000)",James Joyce
+On Writing: A Memoir of The Craft,Stephen King
+The Man Who Solved the Market,Gregory Zuckerman
+Factfulness,Hans Rosling
+Letters from an Astrophysicist,Neil deGrasse Tyson
+Sapiens: A Brief History of Humankind,Yuval Noah Harari
+Getting Started With Unity,Patrick Felicia
+D Cookbook,Adam D. Ruppe
+Internet of Things Programming w/ JavaScript,Ruben Oliva Ramos
+Alexander Hamilton,Ron Chernow
+Grant,Ron Chernow
+The Martian Chronicles,Ray Bradbury
+American Gods,Niel Gaiman
+World War Z,Max Brooks
+"Armageddon In Retrospect (Putnams, 2008)",Kurt Vonnegut
+"Galapagos (Random House, 1985)",Kurt Vonnegut
+"Deadeye Dick (Random House, 1982)",Kurt Vonnegut
+"God Bless You, Dr. Kevorkian (Seven Stories, 2010)",Kurt Vonnegut
+"Look at the Birdie (Random House, 2009)",Kurt Vonnegut
+"A Man without a Country, A (Seven Stories, 2005)",Kurt Vonnegut
+"Palm Sunday (Random House, 1981)",Kurt Vonnegut
+"Slapstick (Random House, 2004)",Kurt Vonnegut
+"Welcome to the Monkey House (Random House, 1968)",Kurt Vonnegut
+"While Mortals Sleep (Random House, 2011)",Kurt Vonnegut
+Beowulf translated by J.R.R Tolkien,unknown
+"Alice's Adventures in Wonderland (Penguin, 1998)",Lewis Caroll
+Fahrenheit 451,Ray Bradbury
+The Great Gatsby,F. Scott Fitzgerald
+Complete Poems and Plays (Faber 1996),T.S Elliot
+As I Lay Dying ,William Faulkner
+Annotated Waste Land (Yale 2005),T.S Elliot
+Sancturay (Vintage 1993),William Faulkner
+Sound and Fury (Vintage 1990),William Faulkner
+"Torrents of Spring (HarperPerennial, 2012)",Ernest Hemingway
+"Old Man and the Sea (Scribner, 2002)",Ernest Hemingway
+Gone With the Wind,Margaret Mitchell
+"Never Let Me Go (Knopf, 2005)",Kazuo Ishiguro
+"Buried Giant (Knopf, 2015)",Kazuo Ishiguro
+Juneteenth,Ralph Ellison
+"Frankenstein (Barnes & Noble, 2003)",Mary Shelley
+"Pygmalion & Three Other Plays (Barnes & Noble, 2004)",George Bernard Shaw
+"The Game of Logic (Macmillan, 1886)",Lewis Caroll
+"In the Shadow of Young Girls in Flower (Yale, 2015)",Marcel Proust
+"Intelligent Woman's Guide to Socialism and Capitalism (Brentano's, 1928)",George Bernard Shaw
+The Catcher in The Rye,J.D Salinger
+The Canterbury Tales: A Retelling by Peter Ackroyd,Geoffrey Chaucer
+The Last of The Mohicans,James Fenimore Cooper
+To The Lighthouse,Virginia Woolf
+Uncle Tom's Cabin,Harriet Beecher Stowe
+American Buffalo,David Mamet
+The Warrior Within: The Philosophies of Bruce Lee,John Little and Linda Lee Caldwell
+Caste The Origins of Our Discontents,Isabel Wilkerson
+Mythos A Retelling of the Myths of Anciet Greece,Stephen Fry
+The Queen's Gambit,Walter Tevis
+Metamorphoses ,Ovid
+The Three Musketeers,Alexandre Dumas
+Twenty Years After,Alexandre Dumas
+Ten Years Later,Alexandre Dumas
+Louise de la Valliere,Alexandre Dumas
+Man in the Iron Mask.,Alexandre Dumas
+Chatter,Ethan Kross
+Dark Territory The Secret History of Cyber War,Fred Kaplan
+"David and Goliath: Underdogs, Misfits",Malcolm Gladwell
+Outliers,Malcolm Gladwell
+Talking to Strangers,Malcolm Gladwell
+Why We Sleep Unlocking the Power of Sleep and Dreams,Dr. Matthew W. Walker
+Wizard The Life and Times of Nikola Tesla,Marc J. Seifer
+Drug Use for Grown Ups,Dr. Carl L. Hart
+Atomic Habits,James Clear
+The Guest List,Lucy Foley
+Geek Love,Katherine Dunn
+Where the Crawdads Sing,Delia Owens
+The Old Drift,Namwali Serpell
+Is This Anything?,Jerry Seinfeld
+Deacon King Kong,James McBride
+"Guns, Germs and Steel",Jared Diamond
+"Night (Bantam, 1986)",Elie Wiesel
+"Night (Hill & Wang, 2006)",Elie Wiesel
+Lolita,Vladimir Nabokov
+The Immortal Life of Henrietta Lacks,Rebecca Skloot
+"Steppenwolf (Bantam, 1969)",Hermann Hesse
+"Siddhartha (Modern Library, 2006)",Hermann Hesse
+A Tale of Two Cities,Charles Dickens
+And Then There Were None,Agatha Christie
+Less,Andrew Sean Greer
+The Girl with the Dragon Tattoo,Stieg Larsson
+The Girl Who Played with Fire,Stieg Larsson
+The Girl Who Kicked the Hornet's Nest,Stieg Larsson
+The Handmaid's Tale,Margaret Atwood & Valerie Martin
+Twenty Thousand Leagues Under the Sea,Jules Verne
+A Clockwork Orange,Anthony Burgess
+"I, Robot",Isaac Asimov
+Hyperion,Dan Simmons
+The Hitchhiker's Guide to the Galaxy,Douglas Adams
+The Restaurant at the End of The Universe,Douglas Adams
+"Life, the Universe and Everything",Douglas Adams
+"So Long, and Thanks for All the fish",Douglas Adams
+Mostly Harmless,Douglas Adams
+Hacking Darwin,Jamie Metzl
+"On the Road: The Original Scroll (Viking, 2007)",Jack Kerouac
+Gaza in Crisis: Reflections on Israel's War Against the Palestinians,Noam Chomsky
+Master of Mankind,Noam Chomsky
+Culture of Terrorism,Noam Chomsky
+The Science of Language: Interviews with James McGilvray,Noam Chomsky
+Nuclear War,Noam Chomsky
+On Anarchism,Noam Chomsky
+On Nature and Language (Cambridge University Press 2002),Noam Chomsky
+Profit Over People:  Neoliberalism and Global Order,Noam Chomsky
+Rogue States - The Rule of Force in World Affairs,Noam Chomsky
+A Confederacy of Dunces,John Kennedy Toole
+A Death in The Family ,James Agee
+Confessions of Nat Turner,William Styron
+The Road,Cormac McCarthy
+Empire Falls,Richard Russo
+Foreign Affairs ,Alison Lurie
+Tales from The South Pacific,James A Michener
+The Color Purple,Alice Walker
+The Optimist's Daughter,Eudora Welty
+The Reivers ,William Faulkner
+Tinkers,Paul Harding
+"Absolute Friends (Penguin, 2018)",John Le Carré
+"Agent Running in the Field (Penguin, 2019)",John Le Carré
+"A Legacy of Spies (Penguin, 2017)",John Le Carré
+"The Little Drummer Girl (Penguin, 2018)",John Le Carré
+"A Most Wanted Man (Scribner, 2014)",John Le Carré
+"The Naive and Sentimental Lover (Penguin, 2011)",John Le Carré
+"Not One More Death (Verso, 2006)",John Le Carré
+"Our Kind of Traitor (Viking, 2010)",John Le Carré
+"A Perfect Spy (Penguin, 2011)",John Le Carré
+"The Tailor of Panama (Ballantine, 2008)",John Le Carré
+"Tinker, Tailor, Soldier, Spy (Penguin, 2011)",John Le Carré
+1963-00 Amazing Spider-Man Fantasy 15,Stan Lee and Steve Ditko
+1963-01 Amazing Spider-Man v1 001,Stan Lee and Steve Ditko
+1963-02 Amazing Spider-Man v1 002,Stan Lee and Steve Ditko
+1963-03 Amazing Spider-Man v1 003,Stan Lee and Steve Ditko
+1963-04 Amazing Spider-Man v1 004,Stan Lee and Steve Ditko
+1963-05 Amazing Spider-Man v1 005,Stan Lee and Steve Ditko
+1963-06 Amazing Spider-Man v1 006,Stan Lee and Steve Ditko
+1963-07 Amazing Spider-Man v1 007,Stan Lee and Steve Ditko
+Salvadore,Joan Didion
+"Dubliners (Vintage, 2012)",James Joyce
+"In Search of Lost Time: The Complete Masterpiece (Modern Library, 2003)",Marcel Proust
+Complete Works,Jane Austen
+Great Expectations (Penguin 2010),Charles Dickens
+"Madame Bovary [trans. Davis] (Penguin, 2010)",Gustave Flaubert
+Too Much and Never Enough,Mary L. Trump
+"Metamorphosis & Other Stories (Penguin, 2007)",Franz Kafka
+Based on a True Story: A Memoir,Norm Macdonald
+The Lord of The Rings: The Fellowship of The Ring,J.R.R Tolkien
+The Lord of The Rings: The Two Towers,J.R.R Tolkien
+The Lord of The Rings: The Return of The King,J.R.R Tolkien
+The Outsiders,S.E Hinton
+Contact,Carl Sagan
+Cosmos,Carl Sagan
+Comet,Carl Sagan
+Billions and Billions,Carl Sagan
+The Rise and Fall of the Third Reich,William L. Shirer
+The Arabian Nights Encyclopedia,Ulrich Marzolph & Richard van Leeuwen & Hassan Wassouf
+The Arabian Nights  ,Andrew Lang
+Arabian Nights: The Tales From a Thousand and One Nights,Richard Burton & A. S. Byatt
+"Arabian Nights: The Tales of 1,001 Nights [Vol, 1]",Robert Irwin & Malcolm C. Lyons & Ursula Lyons.
+1776,David McCullough
+Being Mortal,Atul Gawande
+Homeland Elegies,Ayad Akhtar
+Train Dreams,Denis Johnson
+The Age of Surveillance Capitalism,Shoshana Zuboff
+Post Corona: From Crisis to Opportunity,Scott Galloway
+No Filter: The Inside Story of Instagram ,Sarah Frier
+"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Ashlee Vance
+"AI Superpowers: China, Silicon Valley, and the New World Order",Kai Fu Lee
+The Return of The Shadow,J.R.R Tolkien
+A Brief History of Artificial Intelligence,Michael Wooldridge
+"The Stranger (Vintage, 1958)",Albert Camus
+Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin
+So You Want to Talk About Race,Ijeoma Oluo
+Flowers for Algernon,Daniel Keyes
+The Midnight Library,Matthew Haig
+The Little Prince,Antoine de Saint-Exupéry
+The Book Thief,Markus Zusak
+Wuthering Heights,Emily Brontë
+The Adventures of Huckleberry Finn,Mark Twain
+Little Women,Louisa May Alcott
+Lord of The Flies,William Golding
+Leaving The World Behind,Rumaan Alam
+Eat A Peach,David Chang
+Ender's Game,Orson Scott Card
+Such a Fun Age,Kiley Reid
+Hunger Games,Suzanne Collins
+Catching Fire,Suzanne Collins
+Mockingjay,Suzanne Collins
+East of Eden,John Steinbeck
+One Hundred Years of Solitude,Gabriel García Márquez
+Brave New World,Aldous Huxley
+Atlas Shrugged,Ayn Rand
+Memoirs of a Geisha,Arthur Golden
+"Walden (Princeton, 1971)",Henry David Thoreau
+The Complete Stories,Truman Capote
+Breakfast At Tiffany's,Truman Capote
+NeuroTribes: The Legacy of Autism,Steve Silberman
+Overstated: A Coast-To-Coast Roast of the 50 States,Colin Quinn
+Moneyball: The Art of Winning an Unfair Game,Michael Lewis
+A Thousand Splendid Suns,Khaled Hosseini
+Hamnet,Maggie O'Farrell
+The Communist Manifesto,Karl Marx
+The Autobiography of Malcom X,Alex Haley
+Narrative of the Life of Frederick Douglass,Frederick Douglas
+"Social Contract: First & Second Discourses (Yale, 2002)",Jean Jacques Rousseau
+Gone Girl,Gillian Flynn
+Tuesdays with Morrie,Mitch Albom
+How to Win Friends and Influence People,Dale Carnegie
+A People's History of The United States,Howard Zinn
+Invisible Man,Ralph Ellison
+A Promised Land,Barack Obama
+The Sentinel,Lee Child
+Greenlights,Matthew McConaughey
+Becoming,Michelle Obama
+Just As I Am ,Cicely Tyson
+Big Sur,Jack Kerouac
+The Lord of The Rings Illustrated,J.R.R Tolkien
+Complete Works of George Eliot (Delphi Classics),George Eliot
+"The Brothers Karamazov (Penguin, 2003)",Fyodor Mikhailovich Dostoyevsky
+Wide Sargasso Sea,Jean Rhys
+"Jude the Obscure (Barnes & Noble, 2003)",Thomas Hardy
+"Tess of the d'Urbervilles (Barnes & Noble, 2005)",Thomas Hardy
+"Tropic of Cancer (Grove, 1961)",Henry Miller
+The Secret History,Donna Tartt
+Charlie and the Great Glass Elevator,Roald Dahl
+Charlie and the Chocolate Factory,Roald Dahl
+Matilda ,Roald Dahl
+The BFG,Roald Dahl
+Pride and Prejudice,Jane Austen
+Buddenbrooks: The Decline of a Family ,Thomas Mann
+"Lost Illusions (Penguin, 2004)",Honoré de Balzac
+"Things Fall Apart (Anchor, 1994)",Chinua Achebe
+Homegoing,Yaa Gyasi
+"Books v. Cigarettes (Penguin, 2008)",George Orwell
+"Burmese Days (Penguin, 2009)",George Orwell
+"Coming Up for Air (Penguin, 2000)",George Orwell
+"Mrs. Dalloway (Penguin, 1992)",Virginia Woolf
+"Room of One's Own: Three Guineas (Penguin, 2000)",Virginia Woolf
+"Orlando (Penguin, 1993)",Virginia Woolf
+The Waves (Penguin 2000),Virginia Woolf
+"Jacob's Room (Penguin, 1992)",Virginia Woolf
+"Voyage Out (Penguin, 1992)",Virginia Woolf
+"Junky (Odyssey, 2010)",William S. Burroughs
+"Nova Express: The Restored Text (Grove, 2014)",William S. Burroughs
+"Queer (Penguin, 2010)",William S. Burroughs
+"Soft Machine: The Restored Text (Grove, 2014)",William S. Burroughs
+"Wild Boys (Grove, 1992)",William S. Burroughs
+"American Pastoral (Houghton Mifflin, 1997)",Philip Roth
+"The Counterlife (FSG, 2013)",Philip Roth
+"Dying Animal (Houghton Mifflin, 2001)",Philip Roth
+"Everyman (Houghton Mifflin, 2006)",Philip Roth
+"The Ghost Writer (FSG, 2013)",Philip Roth
+"Goodbye, Columbus (Houghton Mifflin, 1989)",Philip Roth
+"The Human Stain (Houghton Mifflin, 2000)",Philip Roth
+"I Married a Communist (Houghton Mifflin, 1998)",Philip Roth
+"Nemesis (Houghton Mifflin, 2010)",Philip Roth
+"Plot Against America (Houghton Mifflin, 2004)",Philip Roth
+"Portnoy's Complaint (Vintage, 1994)",Philip Roth
+"A Clergyman's Daughter (Penguin, 2000)",George Orwell
+"Homage to Catalonia (Penguin, 2003)",George Orwell
+"Road to Wigan Pier (Penguin, 2001)",George Orwell
+Sacred Mushroom and The Cross,John Marco Allegro
+The Doors Of Perception,Aldous Huxley
+The Bonfire of the Vanities,Tom Wolfe
+The Electric Kool-Aid Acid Test,Tom Wolfe
+Chasing the Bear ,Lars Anderson
+The Jazz of Physics,Stephon Alexander
+The Psychedelic Experience,Timothy Leary
+"The Castle (Penguin, 1997)",Franz Kafka
+"Amerika (Penguin, 2007)",Franz Kafka
+Travels with Charley in Search of America,John Steinbeck
+The Wind in the Willows,Kenneth Graham
+Brideshead Revisited ,Evelyn Waugh
+"I Am Not Your Negro (Vintage, 2017)",James Baldwin
+"If Beale Street Could Talk (Penguin, 1974)",James Baldwin
+"The Master And Margarita (Penguin, 2007)",Mikhail Bulgakov
+"Morphine (New Directions, 2013)",Mikhail Bulgakov
+The Myth Of Sisyphus And Other Essays,Albert Camus
+"Forsyte Saga, Vol. 1 (Penguin, 2001)",John Galsworthy
+"Forsyte Saga, Vol. 2 (Penguin, 2001)",John Galsworthy
+"Forsyte Saga, Vol. 3 (Penguin, 2001)",John Galsworthy
+The Wealth of Nations: Complete and Unabridged,Adam Smith
+The Divine Comedy 1: Inferno,Dante Alighieri & Robin Kirkpatrick
+The Divine Comedy 2: Purgatorio,Dante Alighieri & Robin Kirkpatrick
+The Divine Comedy 3: Paradiso,Dante Alighieri & Robin Kirkpatrick
+Into Thin Air,Jon Krakauer
+"The Dharma Bums (Penguin, 2006)",Jack Kerouac
+Another Roadside Attraction,Tom Robbins
+"Blood Meridian (Random House, 1992)",Cormac McCarthy
+"No Country for Old Men (Vintage, 2006)",Cormac McCarthy
+"White Noise (Penguin, 1999)",Don DeLillo
+"Exemplary Stories (Penguin, 1972)",Miguel de Cervantes
+"The World of Sex (Penguin, 2015)",Henry Miller
+"A Farewell to Arms (Harper Perennial, 2012)",Ernest Hemingway
+"Big Woods (Vintage, 1994)",William Faulkner
+"Intruder in the Dust (Vintage, 1991)",William Faulkner
+"The Mansion (Random House, 1959)",William Faulkner
+"Pylon (Vintage, 2011)",William Faulkner
+"These 13 (Random House, 2012)",William Faulkner
+"Wild Palms (Vintage, 1990)",William Faulkner
+"Wishing Tree (Random Houes, 2012)",William Faulkner
+Let Me Tell You What I Mean ,Joan Didion
+Memorial ,Bryan Washington
+What Are You Going Through?,Sigrid Nunez
+Death in Her Hands,Ottessa Moshfegh
+The Lying Life of Adults,"Elena Ferrante, Ann Goldstein"
+Luster,Raven Leilani
+A Burning,Megha Majumdar
+"Visions of Cody (Penguin, 1993)",Jack Kerouac & Brice Matthieussent
+"Visions of Gerard (Penguin, 1991)",Jack Kerouac
+"Tristessa (Penguin, 1992)",Jack Kerouac
+"Wake Up: A Life of the Buddha (Penguin, 2008)",Jack Kerouac
+"San Francisco Blues (Penguin, 1995)",Jack Kerouac
+"Maggie Cassidy (Penguin, 1993)",Jack Kerouac
+Jack Kerouac and Allen Ginsberg: The Letter [edited by Bill Morgan] ,Jack Kerouac
+"Desolation Angels (Open Road, 2016)",Jack Kerouac
+"Book of Blues (Penguin, 1995)",Jack Kerouac
+"And the Hippos Were Boiled in their Tank (Grove, 2008)",Jack Kerouac & William S. Burroughs
+"Book of Haikus (Penguin, 2003",Jack Kerouac
+The Testaments,Margaret Atwood
+The Nickel Boys,Colson Whitehead
+1964-01 Amazing Spider-Man v1 008,Stan Lee and Steve Ditko
+1964-02 Amazing Spider-Man v1 009,Stan Lee and Steve Ditko
+1964-03 Amazing Spider-Man v1 010,Stan Lee and Steve Ditko
+1964-04 Amazing Spider-Man v1 011,Stan Lee and Steve Ditko
+1964-05 Amazing Spider-Man v1 012,Stan Lee and Steve Ditko
+1964-06 Amazing Spider-Man v1 013,Stan Lee and Steve Ditko
+1964-07 Amazing Spider-Man v1 014,Stan Lee and Steve Ditko
+1964-08 Amazing Spider-Man v1 015,Stan Lee and Steve Ditko
+1964-09 Amazing Spider-Man v1 016,Stan Lee and Steve Ditko
+1964-10 Amazing Spider-Man v1 017,Stan Lee and Steve Ditko
+1964-11 Amazing Spider-Man v1 018,Stan Lee and Steve Ditko
+1964-12 Amazing Spider-Man v1 019,Stan Lee and Steve Ditko
+Me Talk Pretty One Day,David Sedaris
+Infinity Sagas: Thanos Quest,Jim Starlin
+Infinity Sagas: Infinity Gauntlet,Jim Starlin
+Infinity Sagas: Infinity War,Jim Starlin
+Infinity Sagas: Infinity Crusade,Jim Starlin
+Infinity Sagas: Infinity Abyss,Jim Starlin
+Infinity Sagas: The End,Jim Starlin
+"The Dead (Melville House, 2004)",James Joyce
+"Finnegans Wake (Penguin, 2000)",James Joyce
+"Giacomo Joyce (Faber & Faber, 2019)",James Joyce
+"Epiphanies (Lockwood Memorial Library, 1956)",James Joyce
+"Exiles (Penguin, 1973)",James Joyce
+"Complete Short Stories (Cooper Square, 2001)",Marcel Proust
+"Days of Reading (Penguin, 2008)",Marcel Proust
+"The Lemoine Affair (Melville House, 2008)",Marcel Proust
+"Swann in Love (Oxford, 2017)",Marcel Proust
+"Swann's Way [trans. Carter] (Yale, 2013)",Marcel Proust
+Anxious People,Fredrik Backman
+"Abandoned Fragments (Elektron, 2013)",Franz Kafka
+"Complete Stories (Schocken, 1983)",Franz Kafka
+"Great Wall of China (Penguin, 2002)",Franz Kafka
+"Letters to Felice (Schocken, 1973)",Franz Kafka
+"The Sons (Schocken, 1989)",Franz Kafka
+The Picture of Dorian Grey,Oscar Wilde
+"Cycles of Time (Bodley Head, 2010)",Roger Penrose
+Nature Of Space and Time (Princeton 2010),Roger Penrose and Stephen Hawking
+"Techniques of Differential Topology in Relativity (SIAM, 1987)",Roger Penrose
+"The Road to Reality (Jonathan Cape, 2004)",Roger Penrose
+"Giovanni's Room (Vintage, 2013)",James Baldwin
+"Another Country (Vintage, 1993).",James Baldwin
+"Stamped Racism, Antiracism, and You",Jason Reynolds
+"Native Sons [with Sol Stein] (One World, 2004)",James Baldwin
+Relativity The Special and the General Theory ,Albert Einstein
+The World As I See It,Albert Einstein
+"The Idiot (Knopf, 2002)",Fyodor Mikhailovich Dostoyevsky
+"Caligula & Three Other Plays (Vintage, 1962)",Albert Camus
+"Christian Metaphysics and Neoplatonism (Missouri, 2007)",Albert Camus
+"Exile and the Kingdom (Vintage, 1958)",Albert Camus
+"The Fall (Knopf, 1984)",Albert Camus
+"The First Man (Knopf, 1995)",Albert Camus
+"A Happy Death (Vintage, 1973)",Albert Camus
+Bombs Away:  The Story of a Bomber Team,John Steinbeck
+Cannery Row,John Steinbeck
+Cup of Gold,John Steinbeck
+In Dubious Battle,John Steinbeck
+The Acts of King Arthur and His Noble Knights,John Steinbeck
+The Log From the Sea of Cortez,John Steinbeck
+The Pearl,John Steinbeck
+"Love in the New Millennium (Yale, 2018)",Can Xue
+"The Last Lover (Yale, 2014)",Can Xue
+"Vertical Motion (Open Letter, 2011)",Can Xue
+"Frontier (Open Letter, 2017)",Can Xue
+"Five Spice Street (Yale, 2009)",Can Xue
+"My Life (Melville House, 2004)",Anton Chekhov
+"A Russian Affair (Penguin, 2007)",Anton Chekhov
+"About Love (Biblioasis, 2012)",Anton Chekhov
+"Cherry Orchard (Norton, 2010)",Anton Chekhov
+"The Duel (Melville House, 2011)",Anton Chekhov
+"The Seagull  (Norton, 2010)",Anton Chekhov
+"Wild Honey (Signet, 1987)",Anton Chekhov
+"Three Sisters (Nick Hern, 2014)",Anton Chekhov
+"A Pale View of Hills (Vintage, 1990)",Kazuo Ishiguro
+"Artist of the Floating World (Vintage, 2012)",Kazuo Ishiguro
+"Remains of the Day (Vintage, 2010)",Kazuo Ishiguro
+"The Unconsoled (Vintage, 1996)",Kazuo Ishiguro
+"When We Were Orphans (Knopf, 2000)",Kazuo Ishiguro
+"Nocturnes (Knopf, 2009).",Kazuo Ishiguro
+Meaty ,Samantha Irby
+The Death of Vivek Oji,Akwaeke Emezi
+How Much of These Hills Is Gold: A Novel,C Pam Zhang
+"Pale Fire (Berkley, 1982)",Vladimir Nabokov
+"Pnin (Vintage, 1989)",Vladimir Nabokov
+"Ada, or, Ardor (Vintage, 1990)",Vladimir Nabokov
+"Speak, Memory (Vintage, 1989).",Vladimir Nabokov
+"Terra Incognita (Penguin, 2011)",Vladimir Nabokov
+"Letters to Vera (Penguin, 2014)",Vladimir Nabokov
+"Laughter in the Dark (Vintage, 1989)",Vladimir Nabokov
+A Transition to Advanced Mathematics 7th Ed,"Douglas Smith, Maurice Eggen, Richard Andre"
+Algebra 2nd Ed. ,Michael Artin
+Intro. to Mathematical Cryptography,"Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman"
+An Intro. to Mechanics,"Daniel Kleppner, Robert Kolenkow"
+An Intro. to Thermal Physics ,Daniel Schroeder
+Biological Physics,Philip Nelson
+Classical Mechanics,John Taylor
+Differential Geometry of Curves and Surfaces,Manfredo DoCarmo
+Game Theory,"Michael Maschler, Eilon Solan, Shmuel Zamir."
+Geometry,David Brannan
+Introduction to Probability Models,Sheldon M. Ross
+Introduction to Quantum Mechanics 2nd Edition Solutions,David Griffiths
+Modern Physics for Scientists and Engineers 4th Edition,Rex Thorton
+"Modern Quantum Mechanics, 2nd Edition","Jim Napolitano, J.J Sakurai "
+Principles of Quantum Mechanics,Ramamurti Shankar
+Discrete Mathematics and Its Applications 6th Ed.,Kenneth Rosen
+How to Read and Do Proofs,Daniel Solow
+Abstract Algebra 3rd Ed.,"Dummit, Foote"
+Galois Theory 3rd Ed.,Ian Stewart
+Wavelet Tour of Signal Processing 2nd Ed.,Stephane Mallat
+Mathematical Methods in the Physical Sciences,Mary L. Boas
+Nonlinear Dynamics and Chaos,Steven H. Strogatz
+Mathematical Introduction to Logic 2nd Ed. ,Herbert B. Enderton
+Partial Differential Equations: An Introduction,Walter A. Strauss
+Geometry Euclid and Beyond,Robin Hartshorne
+Elementary Differential Geometry 2nd Ed. ,Andrew Pressley
+Calculus on Manifolds,Michael Spivak
+Analysis on Manifolds ,James R. Munkres
+Topology 2nd Ed. ,James R. Munkres
+Introductory Combinatorics 5th Ed. ,Richard A. Brualdi
+Real Analysis 2nd Ed.,Gerald B. Folland
+Real Analysis 4th Ed. ,H.L Royden
+Theory of Ordinary Differential Equations,"Earl Coddington , Norm Levinson"
+Complex Analysis,Lars V. Ahlfors
+An Introduction to Stochastic Modeling 3rd Ed. ,"Howard M.Taylor, Samuel Karlin"
+Applied Probability and Stochastic Processes 2nd Ed.,"Richard M. Feldman, Ciriaco Valdez-Flores"
+A Second Course in Stochastic Processes,"Howard M.Taylor, Samuel Karlin"
+Partial Differential Equations ,Lawrence C. Evans
+Advanced Real Analysis,Anthony W. Knapp
+Principles of Mathematical Analysis 3rd Ed.,Walter Rudin
+Fundamentals of Differential Equations 7th Ed. ,"Nagle, Saff, Snider"
+Measure Lebesgue Integral and Hilbert Space,"Kolgomorov, Fomin"
+Complex Variables and Applications 8th Ed.,"Brown, Churchill"
+Algorithms to Live By: The Computer Science of Human Decisions,Brian Christian
+The C Programming Language 2nd Ed.,"Brian Kernighan, Dennis Richie"
+"Art of Fiction (Paris Review, Fall 1969)",John Steinbeck
+"America and Americans & Selected Nonfiction (Viking, 2001)",John Steinbeck
+"Forgotten Village (Penguin, 2009)",John Steinbeck
+"Moon is Down (Penguin, 1995)",John Steinbeck
+"Long Valley (Penguin, 1995)",John Steinbeck
+"Once There was a War (Penguin, 2007)",John Steinbeck
+"The Red Pony (Penguin, 1994)",John Steinbeck
+"Pastures of Heaven (Penguin, 1995)",John Steinbeck
+"Wayward Bus (Penguin, 2006)",John Steinbeck
+"Zapata (Penguin, 2001)",John Steinbeck
+"To a God Unknown (Penguin, 1995)",John Steinbeck
+"Sea of Cortez (Penguin, 2009)",John Steinbeck
+"Tortilla Flat (Penguin, 1963)",John Steinbeck
+"Big Breasts and Wide Hips (Arcade, 2004)",Mo Yan
+"Change (Seagull, 2010)",Mo Yan
+"Frog (Penguin, 2014)",Mo Yan
+"Life and Death Are Wearing Me Out (Arcade, 2011)",Mo Yan
+"Red Sorghum (Arrow, 2003)",Mo Yan
+"The Republic of Wine (Arcade, 2000)",Mo Yan
+"Autumn of the Patriarch (Penguin, 2014)",Gabriel García Márquez
+"Clandestine in Chile (Holt, 1987)",Gabriel García Márquez
+"General in His Labyrinth (Penguin, 2014)",Gabriel García Márquez
+"In Evil Hour (Harper & Row, 1979)",Gabriel García Márquez
+"Love in the Time of Cholera (Penguin, 2014)",Gabriel García Márquez
+"No One Writes to the Colonel (Penguin, 2014)",Gabriel García Márquez
+"Strange Pilgrims (Knopf, 1993)",Gabriel García Márquez
+"By-Line Ernest Hemingway (Scribner, 2003)",Ernest Hemingway
+"Dangerous Summer (Scribner, 2002)",Ernest Hemingway
+"Dateline Toronto (Scribner, 2002)",Ernest Hemingway
+"Garden of Eden (Scribner, 2002)",Ernest Hemingway
+"Green Hills of Africa (Scribner, 2002)",Ernest Hemingway
+"Snows of Kilimanjaro & Other Stories (Scribner, 2002)",Ernest Hemingway
+"True at First Light (Scribner, 2002)",Ernest Hemingway
+"Winner Take Nothing (Scribner, 2002)",Ernest Hemingway
+"The Black Swan (Knopf, 1954)",Thomas Mann
+"Death in Venice & Other Tales (Penguin, 1999)",Thomas Mann
+"Doctor Faustus (Knopf, 1948)",Thomas Mann
+"Magic Mountain (Everymans Library, 2005)",Thomas Mann
+"Crisis (FSG, 2013)",Hermann Hesse
+"Demian (Penguin, 2013)",Hermann Hesse
+"Gertrude (Picador, 2012)",Hermann Hesse
+"If the War Goes On (Picador, 2012)",Hermann Hesse
+"Journey to the East (Picador, 2013)",Hermann Hesse
+"Knulp (Picador, 2012)",Hermann Hesse
+"Rosshalde (Picador, 2003)",Hermann Hesse
+"Strange News from Another Star (FSG, 1972)",Hermann Hesse
+"The Prodigy (Peter Owen, 1957)",Hermann Hesse
+"A Pictorial Biography (FSG, 1975)",Hermann Hesse
+"Barnaby Rudge (Penguin, 2003)",Charles Dickens
+"Bleak House (Penguin, 2003)",Charles Dickens
+"Christmas Carol (Penguin, 2014)",Charles Dickens
+"Nicholas Nickleby (Penguin, 2003)",Charles Dickens
+"Martin Chuzzlewit (Penguin, 1999)",Charles Dickens
+"David Copperfield (Penguin, 2004)",Charles Dickens
+"Dombey and Son (Penguin, 2002)",Charles Dickens
+"American Notes (Penguin, 2000)",Charles Dickens
+"Mystery of Edwin Drood (Penguin, 2002)",Charles Dickens
+"Hard Times (Penguin, 2003)",Charles Dickens
+Leviathan,Thomas Hobbes
+Our Mutual Friend (Penguin 1997),Charles Dickens
+Smalltime: A Story of My Family and the Mob,Russell Shorto
+Think Again: The Power of Knowing What You Don't Know,Adam Grant
+The Lonely Century: How to Restore Human Connection in a World That's Pulling Apart,Noreena Hertz
+The Four Winds,Kristin Hannah
+How to Not Die Alone: The Surprising Science That Will Help You Find Love,Logan Ury
+A Bright Ray of Darkness,Ethan Hawke
+"Metaphysics (Penguin, 1998)",Aristotle
+"Poetics (Oxford, 1978)",Aristotle
+"On the Parts of Animals, Books I-IV (Oxford, 2001)",Aristotle
+"Physics, Books I & II (Oxford, 1992)",Aristotle
+"Athenian Constitution (Penguin, 2002)",Aristotle
+"Metaphysical Elements of Ethics (Arc Manor, 2008)",Immanuel Kant
+"Metaphysical Elements of Justice, 2nd edn. (Hackett, 1999)",Immanuel Kant
+"Critique of Pure Reason (Cambridge, 1998)",Immanuel Kant
+"Groundwork for the Metaphysics of Morals (Yale, 2002)",Immanuel Kant
+"Theoretical Philosophy After 1781 (Cambridge, 2002)",Immanuel Kant
+"Toward Perpetual Peace & Other Writings (Yale, 2006)",Immanuel Kant
+"Prince (Chicago, 1998)",Niccolò Machiavelli
+"Being and Nothingness (Pocket Books, 1971)",Jean Paul Sartre
+"Emotions, The Outline of a Theory (Carol, 1993)",Jean Paul Sartre
+"Existential Psychoanalysis (Regnery, 1981)",Jean Paul Sartre
+"Transcendence of the Ego (Routledge, 2004)",Jean Paul Sartre
+"Anti-Semite and Jew (Schocken, 1976)",Jean Paul Sartre
+"Clitophon (Cambridge, 1999)",Plato
+"Five Dialogues (Hackett, 2002)",Plato
+"Last Days of Socrates (Penguin, 2010)",Plato
+"Meno & Other Dialogues (Oxford, 2005)",Plato
+"Parmenides (California, 2003)",Plato
+"Philebus (Oxford, 1975)",Plato
+"Portable Plato (Penguin, 1977)",Plato
+"Republic (Barnes & Noble, 2005)",Plato
+"Symposium (Oxford, 1994)",Plato
+"Theaetetus (Oxford, 1973)",Plato
+"Trial and Death of Socrates, 3rd edn. (Hackett, 2000)",Plato
+"Phaedrus (Oxford, 2002)",Plato
+"Being and Time [trans. Stambaugh] (SUNY, 1996)",Martin Heidegger
+"Beginning of Western Philosophy (Indiana, 2015)",Martin Heidegger
+"Existence and Being (Regnery, 1949)",Martin Heidegger
+"Beyond the Pleasure Principle & Other Writings (Penguin, 2003)",Sigmund Freud
+"Civilization and Its Discontents (Penguin, 2002)",Sigmund Freud
+"Interpreting Dreams (Penguin, 2006)",Sigmund Freud
+"The Joke and Its Relation to the Unconscious (Penguin, 2003)",Sigmund Freud
+"On Dreams (Read Books, 2013)",Sigmund Freud
+"On Murder, Mourning and Melancholia (Penguin, 2005)",Sigmund Freud
+"Outline of Psychoanalysis (Penguin, 2003)",Sigmund Freud
+"The Psychology of Love (Penguin, 2006)",Sigmund Freud
+"Studies in Hysteria (Penguin, 2004)",Sigmund Freud
+"The Uncanny (Penguin, 2003)",Sigmund Freud
+"The Unconscious (Penguin, 2005)",Sigmund Freud
+"Wolfman and Other Cases (Penguin, 2003)",Sigmund Freud
+Cracking the GRE: Premium 2020 Edition with 6 Practice Tests,The Princeton Review
+"Bob Dylan Anthology (Music Sales America, 1992)",Bob Dylan
+"Tarantula (Penguin, 1977)",Bob Dylan
+"The Playboy Interviews (Playboy, 2012)",Bob Dylan
+Fake Accounts,Lauren Oyler
+"American Originality (FSG, 2017)",Louise Gluck
+"Averno (FSG, 2007)",Louise Gluck
+"Firstborn (NAL, 1968)",Louise Gluck
+"A Village Life (FSG, 2009)",Louise Gluck
+"Into the Silence (Knopf, 2011)",Wade Davis
+"Light at the Edge of the World (D & M, 2007)",Wade Davis
+"Serpent and the Rainbow (Simon & Schuster, 1985)",Wade Davis
+"Shadows in the Sun (Island Press, 1998)",Wade Davis
+"The Wayfinders (Anansi, 2009)",Wade Davis
+"Passage of Darkness: The Ethnobiology of the Haitian Zombie (North Carolina, 1988)",Wade Davis
+"The Sacred Headwaters (Greystone, 2012)",Wade Davis
+"Magdalena: River of Dreams (Knopf, 2020)",Wade Davis
+The Bad Muslim Discount,Syed M. Masood
+The Alchemist (25th Anniversary Edition),Paulo Coelho
+"Human Hacking: Win Friends, Influence People",Christopher Hadnagy
+Just Eat,Barry Estabrook
+Aaron Hernandez's Killing Fields,Dylan Howard
+"American Baby: A Mother, a Child, and the Shadow History of Adoption",Gabrielle Glaser
+"Pleasures and Days (Alma Classics, 2013)",Marcel Proust
+"On Reading (Hesperus, 2011)",Marcel Proust
+Hitler and Stalin: The Tyrants and the Second World War,Laurence Rees
+The Spider Network ,David Enrich
+Four Hundred Souls,Ibram X. Kendi
+Keep Sharp: Build a Better Brain at Any Age,Sanjay Gupta M.D
+Extraterrestrial: The First Sign of Intelligent Life Beyond Earth,Avi Loeb
+"Humor, Seriously","Jennifer Aaker, Naomi Bagdonas"
+The Body,Bill Brryson
+"Hocus Pocus (Penguin, 1990).",Kurt Vonnegut
+"Mother Night (Random House, 1994)",Kurt Vonnegut
+"Petrified Ants (Random House, 2009)",Kurt Vonnegut
+"Timequake (Penguin, 1997)",Kurt Vonnegut
+"We Are What We Pretend to Be (Vanguard, 2012)",Kurt Vonnegut
+"Basic Training (Rosetta, 2012)",Kurt Vonnegut
+"Bagombo Snuff Box (Rosetta, 2011).",Kurt Vonnegut
+"Happy Birthday, Wanda June (Bantam, 1970)",Kurt Vonnegut
+The Death Gap: How Inequality Kills,David A. Ansell
+The Gold Eaters,Ronald Wright
+Transcendent Kingdom,Yaa Gyasi
+"The Analects (Penguin, 2014)",Confucius
+"Candide & Other Stories (Oxford, 2006)",Voltaire
+"Candide (Yale, 2005)",Voltaire
+"Portable Voltaire (Penguin, 1977)",Voltaire
+"Autobiographies (Penguin, 2002)",Charles Darwin
+"Hosts of Living Forms (Penguin, 2010)",Charles Darwin
+"It Was Snowing Butterflies (Penguin, 2015)",Charles Darwin
+"Origin of Species: Voyage of the Beagle (Everymans Library, 2003)",Charles Darwin
+"Effects of Cross and Self Fertilisation in the Vegetable Kingdom (Cambridge, 2009)",Charles Darwin
+"Descent of Man (Penguin, 2004)",Charles Darwin
+"Descent of Man (Princeton, 1981)",Charles Darwin
+"Charles Darwin's Notebooks, 1836-1844 (Cambridge, 2008)","Charles Darwin, Paul Barrett (ed.) "
+Of Comics and Men: A Cultural History of American Comic Books,Jean-Paul Gabilliet
+Extreme Ownership: How U.S. Navy SEALs Lead and Win,"Jocko Willink, Leif Babin"
+The Dichotomy of Leadership,"Jocko Willink, Leif Babin"
+Weapons of Math Destruction,Cathy O'Neil
+Lost Connections,Johann Hari
+Chasing the Scream,Johann Hari
+Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked,Adam Alter
+Food of the Gods,Terence McKenna
+The Righteous Mind,Jonathan Haidt
+Tribe: On Homecoming and Belonging,Sebastian Junger
+The Terminal List,Jack Carr
+The Immortality Key: The Secret History of the Religion with No Name,Brian C. Muraresku
+"Chaos: Charles Manson, the CIA ",Tom O'Neill
+Black Buck,Mateo Askaripour
+"A Calendar of Wisdom (Scribner, 1997)",Leo Tolstoy
+"Childhood, Boyhood, Youth (Penguin, 1964)",Leo Tolstoy
+"Cossacks & Other Stories (Penguin, 2006)",Leo Tolstoy
+"Death of Ivan Ilyich & Other Stories (Penguin, 2008)",Leo Tolstoy
+"The Devil (Melville House, 2004)",Leo Tolstoy
+"Forbidden Words (White Crow, 2009)",Leo Tolstoy
+"Hadji Murad (Modern Library, 2003)",Leo Tolstoy
+"Kreutzer Sonata & Other Stories (Penguin, 2004)",Leo Tolstoy
+"Last Steps (Penguin, 2009)",Leo Tolstoy
+"Master and Man & Other Stories (Penguin, 2005)",Leo Tolstoy
+"Resurrection (Penguin, 1996)",Leo Tolstoy
+"Sebastopol Sketches (Penguin, 1986)",Leo Tolstoy
+"War and Peace (Modern Library, 2002)",Leo Tolstoy
+"What is Art (Penguin, 1996)",Leo Tolstoy
+Gods and Kings: The Rise and Fall of Alexander McQueen and John Galliano,Dana Thomas
+How the One-Armed Sister Sweeps Her House,Cherie Jones
+Fundamentals of Database Systems 7ed [2015],Ramez Elmasri        
+Managerial Accounting for Dummies,"Mark P. Holtzman, CPA"
+Managerial Economics for Dummies,"Robert Graham, PhD"
+Cracking the GMAT: Premium 2020 Edition with 6 Practice Tests,The Princeton Review
+Interior Chinatown,Charles Yu
+"Boy in the Twilight (Pantheon, 2014)",Yu Hua
+"Brothers (Pantheon, 2009)",Yu Hua
+"China in Ten Words (Pantheon, 2011)",Yu Hua
+"Cries in the Drizzle (Anchor, 2007)",Yu Hua
+"Seventh Day (Pantheon, 2015)",Yu Hua
+"To Live (Anchor, 2003)",Yu Hua
+Mike Nichols: A Life,Mark Harris
+First Platoon: A Story of Modern War in the Age of Identity Dominance,Annie Jacobsen
+The Real Book Vol. I,Hal Leonard
+The Real Book Vol. II,Hal Leonard
+The Real Book Vol. III,Hal Leonard
+Organic Chemistry 9th Ed.,L. G. Wade
+Bill Evans Fake Book,Pascal Wetzel
+Jazz Standards,Budget Books
+How Spies Think: Ten Lessons in Intelligence ,David Omand
+The Parasitic Mind: How Infectious Ideas Are Killing Common Sense,Gad Saad
+Rage,Stephen King
+The Dead Zone,Stephen King
+The Roadwork,Stephen King
+The Eyes of The Dragon,Stephen King
+Thinner,Stephen King
+Duma King,Stephen King
+The Dark Half,Stephen King
+The Green Mile,Stephen King
+Desperation,Stephen King
+Joyland,Stephen King
+Troubled: The Failed Promise of America's Behavioral Treatment Programs,Kenneth R. Rosen
+Lot Six: A Memoir,David Adjmi
+Aftershocks: A Memoir ,Nadia Owusu
+Deadly Cross ,James Patterson
+"Cousin Pons (Penguin, 1968)",Honoré de Balzac
+"Girl with the Golden Eyes (Melville House, 2005)",Honoré de Balzac
+"Human Comedy (NYRB, 2014)",Honoré de Balzac
+"Le Père Goriot (Barnes & Noble, 2005)",Honoré de Balzac
+"Unknown Masterpiece & Gambara (NYRB, 2001)",Honoré de Balzac
+The New Right: A Journey to the Fringe of American Politics,Michael Malice
+Collected Works of Poe,Edgar Allan Poe
+"Theban Plays (Yale, 2007)",Sophocles
+"A Grain of Wheat (Penguin, 2002)",Ngugi wa Thiong'o
+"Decolonising the Mind (ZPH, 1986)",Ngugi wa Thiong'o
+"Devil on the Cross (Penguin, 2017)",Ngugi wa Thiong'o
+"Globalectics (Columbia, 2012)",Ngugi wa Thiong'o
+"Petals of Blood (Penguin, 2002)",Ngugi wa Thiong'o
+"The River Between (Penguin, 2015)",Ngugi wa Thiong'o
+"The Perfect Nine (New Press, 2020)",Ngugi wa Thiong'o
+"Weep Not, Child (Penguin, 2012)",Ngugi wa Thiong'o
+"Wrestling with the Devil (New Press, 2018)",Ngugi wa Thiong'o
+"Dreams in a Time of War (Pantheon, 2010)",Ngugi wa Thiong'o
+"Origin East Africa (Heinemann, 1965)",Ngugi wa Thiong'o
+"101 Fairy Tales [trans. Hunt] (Canterbury Classics, 2012)",Brothers Grimm
+"Juniper Tree and Other Tales [trans. Bell] (Pushkin, 2012)",Brothers Grimm
+"Fairy Tales from the Brothers Grimm (Penguin, 2013)","Brothers Grimm, Peter Wortsman(ed.) "
+"Tales of the German Imagination (Penguin, 2012)",Brothers Grimm
+Selected Tales (Penguin 2004),Brothers Grimm
+"Child of God (Vintage, 1993)",Cormac McCarthy
+"The Counselor (Vintage, 2013)",Cormac McCarthy
+"The Orchard Keeper (Vintage, 1993)",Cormac McCarthy
+"Outer Dark (Vintage, 1993)",Cormac McCarthy
+"The Stonemason (Vintage, 1995).",Cormac McCarthy
+"The Sunset Limited (Vintage, 2006)",Cormac McCarthy
+"Suttree (Vintage, 1992)",Cormac McCarthy
+Unmasked: Inside Antifa's Radical Plan to Destroy Democracy,Andy Ngo
+Ordinary Differential Equations [Including Maple Code],R Precup
+MCAT General Chemistry Review 2019-2020,Kaplan Test Prep
+Introduction to Algorithms 3rd Ed.,"Thomas H., Charles L., Ronald R., & Clifford S."
+Macroeconomics 7th Ed.,Oliver Blanchard-
+Extraterrestrial Languages (MIT Press),Daniel Oberhaus
+Extremism (MIT Press),J.M. Berger
+Machine Learning (MIT Press),Ethem Alpaydin
+Anti-Vaxxers: How to Challenge a Misinformed Movement,Jonathan M. Berman
+Portrait of an Addict as a Young Man: A Memoir,Bill Clegg
+Genghis Khan and the Making of the Modern World,Jack Weatheford
+American Serial Killers: The Epidemic Years 1950-2000,Peter Vronsky
+A Pho Love Story,Loan Le
+Unfinished: A Memoir,Priyanka Chopra Jonas
+"Story of the Eye (City Lights, 1987)",Georges Bataille
+"Literature and Evil (Penguin, 2012)",Georges Bataille
+"The Impossible (City Lights, 1999)",Georges Bataille
+Walk in My Combat Boots: True Stories from America's Bravest Warriors,James Patterson
+Python All In One For Dummies,"John Shovic, Alan Simpson"
+Scrum for Dummies,"Mark C. Layton, David Morrow"
+Test-Driven Development with Python 2nd Ed.,Harry Percival
+"Don Quixote (Ecco, 2003)",Miguel de Cervantes
+NFL Century: The One Hundred Year Rise of America's Greatest Sports League,Joe Horrigan
+Consent,Vanessa Springora
+Made in China,Amelia Pang
+The Physics of Climate Change,Lawrence M. Krauss
+An Anatomy of Pain,Abdul-Ghaaliq Lalkhen
+Ticking Clock: Behind the Scenes at 60 Minutes,Ira Rosen
+Edmund Hillary - A Biography,Michael Gill
+100 Comics that Built a Universe ,Marvel Comics
+"Winning Now, Winning Later",David M. Cote
+"Connect: Building Exceptional Relationships with Family, Friends, and Colleagues",David Bradford
+New Ideas from Dead Economists,Todd G. Buchholz
+"Diaries, 1910-1923 (Schocken, 1988)",Franz Kafka
+"The Trial  (Vintage, 2009)",Franz Kafka
+Trading in the Zone,Mark Douglas
+The Genome Odyssey,Euan Angus Ashley
+China's Good War,Rana Mitter
+Paradise Lost,John Milton
+Stuck,Heidi J. Larson
+Product Management for Dummies,Brian Lawley
+Kill Shot,Jason Dearen
+Vol. 1 Beginner Jazz Guitar,Jody Fisher
+Vol. 2 Intermediate Jazz Guitar,Jody Fisher
+Vol. 3 Mastering Chord Melodies,Jody Fisher
+Vol. 4 Mastering Improvisation,Jody Fisher
+Maximum Security,anonymous
+How to Grow Medicinal Marijuana,Todd McCormick
+Marijuana Chemistry,Michael Starks
+Empire,"Michael Hardt, Antonio Negri"
+Patriot Act: Domestic Security,United States Government
+Rockefeller Syndicate,Riciu Sorin
+Joint Rolling Handbook,anonymous
+White Papers (Skull and Bones),"Paul Goldstein, Jeffrey Steinberg"
+How To Avoid a Climate Disaster,Bill Gates
+American Kingpin,Nick Bilton
+"Astrophysics for People in a Hurry (Norton, 2017)",Neil deGrasse Tyson
+"Death by Black Hole (Norton, 2007)",Neil deGrasse Tyson
+"Pluto Files (Norton, 2014)",Neil deGrasse Tyson
+"Space Chronicles (Norton, 2012)",Neil deGrasse Tyson
+"My Favorite Universe (Teaching Company, 2003)",Neil deGrasse Tyson
+"One Universe (Joseph Henry, 2000)",Neil deGrasse Tyson
+"Origins (Norton, 2004)",Neil deGrasse Tyson
+The End of Procrastination,Petr Ludwig
