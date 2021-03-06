@@ -5,6 +5,7 @@ A place to search through a database of e-books and download whatever you desire
 I'm working on re-building the frontend of the site with React.js and possibly building a new backend with fastify and swagger. I'm also thinking about switching from postgresQL to a NoSQL Database like MongoDB or Azure Cosmos. 
 </p>
 <a href="books.csv">List of All Books</a><br>
+<a href="essentials.txt">List of Essential Reads</a><br>
 <a href="https://nnmax1-ebooks.web.app">Current Site</a>
 
 
