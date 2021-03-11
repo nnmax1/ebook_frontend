@@ -10,12 +10,15 @@ I'm working on re-building the frontend of the site with React.js and possibly b
 
 
 <h1>Search Settings: </h1>
-<li>Recent Search: search books that were released from the year 2020 to present by title. </li>
 <li>Title Search: search based on a book's title. </li>
 <li>Author Search: search based on a book's author. </li>
 <li>Genre Search: search based on a book's genre.  </li>
-<li>Textbook Search: search textbooks by title.</li>
-<li>Essential Search: search essential books by title.</li>
+
+<h1>Toggle Switches: </h1>
+<li>Essential Read? - only displays search results that are categorized as essential reads.  </li>
+<li>Recent (2020-Present)？ - only displays books released after the year 2020. </li>
+<li>Textbook？ only displays books that are textbooks   </li>
+
 
 <h1>Formats: </h1>
 <li>PDF</li>
